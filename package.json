@@ -1,0 +1,31 @@
+{
+  "name": "telegram_tasks_manager_bot",
+  "version": "1.0.0",
+  "description": "telegram bot for manage your tasks",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^5.12.10",
+    "node-cron": "^3.0.0",
+    "node-telegram-bot-api": "^0.53.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dewo72d/task_manager_bot_tg.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "Dewo72d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dewo72d/task_manager_bot_tg/issues"
+  },
+  "homepage": "https://github.com/Dewo72d/task_manager_bot_tg#readme"
+}
